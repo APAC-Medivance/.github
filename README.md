@@ -1,5 +1,5 @@
 <div align="center">
-  <img></img>
+  <img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/logo/medivance-logo-only-removebg.png"></img>
   <h3><b>Medivance</b></h3>
   <p>An Organization to make Medical Solutions</p>
 </div>
