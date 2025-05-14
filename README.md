@@ -24,15 +24,15 @@ That's our first step to begin the journey.
 
 ### SDG 3 : Good Health and Well-Being
 
-![SDG 3](https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/sdg/3_crop.png)
+![SDG 3](https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/sdg/3_crop.jpg)
 
 ### SDG 9 : Industry, Innovation, and Infrastructure
 
-![SDG 9](https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/sdg/4_crop.png)
+![SDG 9](https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/sdg/4_crop.jpg)
 
 ### SDG 11 : Sustainable Cities and Communities
 
-![SDG 11](https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/sdg/5_crop.png)
+![SDG 11](https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/sdg/5_crop.jpg)
 
 ## Contributors
 | <img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/arif.jpg" width=150 height=200></img> | <img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/fachrizal.jpg" width=150 height=200></img> | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/bintar.jpg" width=150 height=200></img></center> | <img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/doni.jpg" width=150 height=200></img> |
