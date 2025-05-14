@@ -45,7 +45,7 @@ several healthcare challenges:
 ## Solution Key Points
 **MEDIVANCE** is a multi-lingual, AI-powered health management platform designed to
 protect and empower pilgrims during large-scale religious journeys. By combining wearable
-health monitoring, medical history inputs, and predictive AI algorithms, MEDISFERA:
+health monitoring, medical history inputs, and predictive AI algorithms, MEDIVANCE:
 
 - Collects and analyzes **pilgrims’ medical profiles** before and during the pilgrimage.
 
@@ -67,7 +67,7 @@ health monitoring, medical history inputs, and predictive AI algorithms, MEDISFE
 
 ### How is it different from existing solutions : 
 
-| Feature | MEDISFERA | Basic Apps | Hajj Traditional Systems | Health | 
+| Feature | MEDIVANCE | Basic Apps | Hajj Traditional Systems | Health | 
 |---------|-----------|------------|--------------------------|--------|
 | Multilingual pre-departure medical intake | ✅ | ❌ | ❌ | | 
 | Real-time health monitoring via wearable tech | ✅ | ❌ | ❌ | | 
