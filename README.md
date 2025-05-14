@@ -18,7 +18,7 @@ That's our first step to begin the journey.
 ## Solution Key Points
 
 ## Contributors
-| <img src="https://avatars.githubusercontent.com/Arief1222" width=150 height=150></img> | <img src="https://avatars.githubusercontent.com/Nilfgard13" width=150 height=150></img> | <center><img src="https://avatars.githubusercontent.com/PenDZ-Alter" width=150 height=150></img></center> | <img src="https://avatars.githubusercontent.com/anugrahromadoni" width=150 height=150></img> |
+| <img src="https://avatars.githubusercontent.com/Arief1222" width=150 height=150></img> | <img src="https://avatars.githubusercontent.com/Nilfgard13" width=150 height=150></img> | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/bintar.jpg" width=150 height=200></img></center> | <img src="https://avatars.githubusercontent.com/anugrahromadoni" width=150 height=150></img> |
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
 | [Arief1222](https://github.com/Arief1222)   | [Nilfgard13](https://github.com/Nilfgard13)         | [PenDZ-Alter](https://github.com/PenDZ-Alter) | [anugrahromadoni](https://github.com/anugrahromadoni)     |
 | Miftahul Arifin | Fachrizal Fazza Ashari | Muhammad Annas Bintar Putra | Anugrah Romadoni | 
