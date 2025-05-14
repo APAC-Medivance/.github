@@ -18,6 +18,33 @@ That's our first step to begin the journey.
 
 ## Problem Statement
 
+The recent annual Hajj pilgrimage in Saudi Arabia in June 2024 attracted a total of 1.83 million
+pilgrims, 1.6 million of whom came from 182 other countries. The Hajj was held during the
+peak of Saudi Arabia's summer when temperatures reached a record 51°C, and 1,301 pilgrims
+died from heat-related illnesses reported by Saudi authorities. The unprecedented death toll has
+been a concern for global public health authorities since the deaths occurred(McCloskey dkk.,
+2024). According to the BBC, in addition to chronic illnesses, there are other factors that cause
+pilgrims to die. These include extreme heat, overcrowded tents and sanitation problems,
+transportation problems, and slow medical personnel (goodstats, 2024).
+
+Mass religious pilgrimages like **Hajj** bring together millions of people from diverse nations,
+age groups, and health backgrounds into a single high-density environment. This leads to
+several healthcare challenges:
+
+- **Limited real-time health surveillance** of vulnerable pilgrims, especially elderly or
+chronically ill individuals.
+
+- **Fragmented or inaccessible medical histories**, making it difficult for health teams to
+perform rapid triage.
+
+- **Delayed clinical response** due to the absence of predictive and early-warning systems.
+
+- **Lack of personalized care pathways**, especially in low-resource or high-mobility
+settings like Mina, Arafat, or Muzdalifah.
+
+- **High risk of infectious disease outbreaks, dehydration, cardiovascular events**, and
+heat-related illnesses without proactive monitoring tools.
+
 
 ## Solution Key Points
 
