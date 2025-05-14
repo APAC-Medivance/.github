@@ -5,6 +5,9 @@
 </div>
 
 # Medivance
+
+![Presentation](https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/Blue%20and%20White%20Simple%20The%20Future%20Of%20The%20Arctic%20Presentation.png)
+
 Medivance is an organization from Google APAC Solution Challenge to make a medical solution. We are focusing in Hajj pilgrims who really have poor health.
 
 That's our first step to begin the journey.
