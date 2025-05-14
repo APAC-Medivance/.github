@@ -20,6 +20,14 @@ That's our first step to begin the journey.
 
 ## Solution Key Points
 
+## UN's Sustainable Development Goals
+
+### SDG 3 : 
+
+### SDG 9 : 
+
+### SDG 11 : 
+
 ## Contributors
 | <img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/arif.jpg" width=150 height=200></img> | <img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/fachrizal.jpg" width=150 height=200></img> | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/bintar.jpg" width=150 height=200></img></center> | <img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/doni.jpg" width=150 height=200></img> |
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
