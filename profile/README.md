@@ -43,7 +43,7 @@ several healthcare challenges:
 
 
 ## Solution Key Points
-**MEDIVANCE** is a multi-lingual, AI-powered health management platform designed to
+**MEDIVANCE** is an AI-powered health management platform designed to
 protect and empower pilgrims during large-scale religious journeys. By combining wearable
 health monitoring, medical history inputs, and predictive AI algorithms, MEDIVANCE:
 
@@ -65,18 +65,6 @@ health monitoring, medical history inputs, and predictive AI algorithms, MEDIVAN
 
 - Can integrate with national health systems and **international pilgrimage missions**, regardless of origin country.
 
-### How is it different from existing solutions : 
-
-| Feature | MEDIVANCE | Basic Apps | Hajj Traditional Systems | Health | 
-|---------|-----------|------------|--------------------------|--------|
-| Multilingual pre-departure medical intake | ✅ | ❌ | ❌ | | 
-| Real-time health monitoring via wearable tech | ✅ | ❌ | ❌ | | 
-| Predictive analytics for health risks | ✅ | ❌ | ❌ | | 
-| Emergency alerts to medical teams | ✅ | ❌ | ❌ | | 
-| Location-based triage and resource mapping | ✅ | ❌ | ❌ | |
-| AI chatbot in multiple languages | ✅ | ❌ | ❌ | |
-| Scalable for any country’s pilgrims | ✅ | ❌ | ❌ | |
-
 
 ## UN's Sustainable Development Goals
 
@@ -94,7 +82,7 @@ health monitoring, medical history inputs, and predictive AI algorithms, MEDIVAN
 
 
 ## Contributors
-| <img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/arif.jpg" width=150 height=200></img> | <img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/fachrizal.jpg" width=150 height=200></img> | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/bintar.jpg" width=150 height=200></img></center> | <img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/doni.jpg" width=150 height=200></img> |
+| <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/arif.jpg" width=150 height=200></img></center> | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/fachrizal.jpg" width=150 height=200></img></center> | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/bintar.jpg" width=150 height=200></img></center> | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/doni.jpg" width=150 height=200></img></center> |
 |---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-| [Arief1222](https://github.com/Arief1222)   | [Nilfgard13](https://github.com/Nilfgard13)         | [PenDZ-Alter](https://github.com/PenDZ-Alter) | [anugrahromadoni](https://github.com/anugrahromadoni)     |
-| Miftahul Arifin | Fachrizal Fazza Ashari | Muhammad Annas Bintar Putra | Anugrah Romadoni | 
+| <center>[Arief1222](https://github.com/Arief1222)</center>   | <center>[Nilfgard13](https://github.com/Nilfgard13)</center>         | <center>[PenDZ-Alter](https://github.com/PenDZ-Alter)</center> | <center>[anugrahromadoni](https://github.com/anugrahromadoni)</center>     |
+| <center><p><b>Miftahul Arifin</b></p> <p><i>Informatics Engineering</i></p></center> | <center><p><b>Fachrizal Fazza Ashari</b></p> <p><i>Informatics Engineering</i></p></center> | <center><p><b>Muhammad Annas Bintar Putra</b></p> <p><i>Informatics Engineering</i></p></center> | <center><p><b>Sudrajat Anugerah Romadoni</b></p> <p><i>Medical Doctor Education</i></p></center> | 
