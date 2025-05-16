@@ -43,6 +43,8 @@ several healthcare challenges:
 
 
 ## Solution Key Points
+![Solution Key Points Slide](https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/Blue%20and%20White%20Simple%20The%20Future%20Of%20The%20Arctic%20Presentation(1).png)
+
 **MEDIVANCE** is an AI-powered health management platform designed to
 protect and empower pilgrims during large-scale religious journeys. By combining wearable
 health monitoring, medical history inputs, and predictive AI algorithms, MEDIVANCE:
