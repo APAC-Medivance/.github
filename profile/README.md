@@ -82,7 +82,7 @@ health monitoring, medical history inputs, and predictive AI algorithms, MEDIVAN
 
 ![SDG 11](https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/sdg/5_crop.jpg)
 
-## 🎬 Proof of Concept (PoC)
+## 🎬 Chatbot Proof of Concept (PoC)
 
 **MediBot** is the AI health assistant built into the Medivance platform, powered by the Gemini API, demonstrating the core idea of AI-driven, personalized pilgrim health consultation.
 
