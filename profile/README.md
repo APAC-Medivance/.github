@@ -98,12 +98,6 @@ MediBot can gather symptom details (pain location, severity, triggers) directly 
 
 ![MediBot Symptom Assessment](images/medibot-symptom-assessment.jpeg)
 
-### 3. Personalized Medical & Family History Lookup
-
-MediBot is connected to the user's health database, allowing it to answer personalized questions such as body weight and family medical history (e.g. diabetes history), instead of giving generic answers.
-
-![MediBot Medical and Family History](images/medibot-medical-history.jpeg)
-
 > **Note:** This PoC shows MediBot running end-to-end inside the Flutter mobile app (Android Emulator), with the Gemini API handling conversational reasoning while being grounded in each pilgrim's actual profile and medical history data.
 
 ## Contributors
