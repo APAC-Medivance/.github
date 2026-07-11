@@ -82,6 +82,29 @@ health monitoring, medical history inputs, and predictive AI algorithms, MEDIVAN
 
 ![SDG 11](https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/sdg/5_crop.jpg)
 
+## 🎬 Proof of Concept (PoC)
+
+**MediBot** is the AI health assistant built into the Medivance platform, powered by the Gemini API, demonstrating the core idea of AI-driven, personalized pilgrim health consultation.
+
+### 1. Introduction & Personalized Recognition
+
+When a user starts a conversation, MediBot introduces itself as a health expert integrated into the digital consultation platform, and is able to recall who the user is based on their connected profile.
+
+![MediBot Introduction and Integration](images/medibot-intro-and-integration.jpeg)
+
+### 2. Symptom Assessment & Health Recommendations
+
+MediBot can gather symptom details (pain location, severity, triggers) directly from natural conversation and generate a preliminary assessment along with practical self-care suggestions.
+
+![MediBot Symptom Assessment](images/medibot-symptom-assessment.jpeg)
+
+### 3. Personalized Medical & Family History Lookup
+
+MediBot is connected to the user's health database, allowing it to answer personalized questions such as body weight and family medical history (e.g. diabetes history), instead of giving generic answers.
+
+![MediBot Medical and Family History](images/medibot-medical-history.jpeg)
+
+> **Note:** This PoC shows MediBot running end-to-end inside the Flutter mobile app (Android Emulator), with the Gemini API handling conversational reasoning while being grounded in each pilgrim's actual profile and medical history data.
 
 ## Contributors
 | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/arif.jpg" width=150 height=200></img></center> | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/fachrizal.jpg" width=150 height=200></img></center> | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/bintar.jpg" width=150 height=200></img></center> | <center><img src="https://raw.githubusercontent.com/APAC-Medivance/.github/refs/heads/main/assets/doni.jpg" width=150 height=200></img></center> |
