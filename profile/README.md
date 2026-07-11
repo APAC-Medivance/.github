@@ -96,7 +96,7 @@ When a user starts a conversation, MediBot introduces itself as a health expert 
 
 MediBot can gather symptom details (pain location, severity, triggers) directly from natural conversation and generate a preliminary assessment along with practical self-care suggestions.
 
-![MediBot Symptom Assessment](images/medibot-symptom-assessment.jpeg)
+![MediBot Symptom Assessment](images/medibot-symptom-assessment.png)
 
 > **Note:** This PoC shows MediBot running end-to-end inside the Flutter mobile app (Android Emulator), with the Gemini API handling conversational reasoning while being grounded in each pilgrim's actual profile and medical history data.
 
